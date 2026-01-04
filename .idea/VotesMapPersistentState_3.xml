@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VotesMapPersistentState">
+    <option name="votesMap">
+      <map>
+        <entry key="18f2c05a-4dc7-4352-ade7-d8bd6a1eca81">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T04:29:14.628311300Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="309f453d-9b98-4e6b-86b7-a773d84df570">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T03:28:35.717800900Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="3d5d026d-f277-45d1-aeca-37301d2494c9">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T03:33:39.452057800Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="5b4fc676-7125-437b-b5b2-7815ebe927dd">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T04:32:20.883691400Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="65761d0f-45b8-48f2-bb56-0fdfa1959b32">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T04:48:49.829022Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="b13040be-e978-4ed4-b031-3fc9bba18d60">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T04:40:53.683068200Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="dc2bfd79-6ac9-4ec3-a08f-1ed20ee37466">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T04:44:58.368900200Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="e35bf020-1085-4938-8d29-2a9ddd971072">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-01-04T04:37:50.974741600Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

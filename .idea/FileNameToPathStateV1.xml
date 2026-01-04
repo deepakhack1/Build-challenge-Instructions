@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FileNameToPathState">
+    <option name="fileNameToPathMap">
+      <map>
+        <entry key="banking/Account.java Lines(1-287)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/challenge/banking/Account.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="banking/AccountTest.java Lines(1-468)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/banking/AccountTest.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/banking/AccountTest.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/banking/AccountTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="banking/BankingExceptionTest.java Lines(1-300)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/banking/BankingExceptionTest.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/banking/BankingExceptionTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="banking/BankingExceptionTest.java Lines(1-301)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/banking/BankingExceptionTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="gradebook/GradingCategoryTest.java Lines(1-431)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/challenge/gradebook/GradingCategoryTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="test23/test2.java Lines(1-30)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../test23/test2.java" />
+              <option value="$PROJECT_DIR$/../test23/test2.java" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AuthenticationTokenPreferenceState">
+    <option name="authTokenMap">
+      <map>
+        <entry key="Build-challenge-Instructions" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImlrNldybzd6RmpuWndjTUY0NDNBTndXNEI0QkhzTGNOdUFldzBKaTktMFUifQ.eyJ0eXBlIjoiYXQiLCJjbGllbnRJZCI6ImI5N2ZiZWY3LWNhZDktNGU1Ni05ODUwLTM5ZTg2YzhmZGY2MSIsInJlcXVlc3RlZENsaWVudElkIjoiYjk3ZmJlZjctY2FkOS00ZTU2LTk4NTAtMzllODZjOGZkZjYxIiwiaWRwIjoibXNmdCIsImlzcyI6Imh0dHBzOi8vcHMuc2FwaWVudHNsaW5nc2hvdC5jb20iLCJyb2xlcyI6WyJ1c2VyIl0sImp0aSI6IkFORVRIUlRJSFEiLCJVc2VySW5mbyI6eyJpZCI6IjhhNTBiNjEwLTRjOWItNGMwOS1hYWI0LTU1YWY2MDk4NGRmOSIsImVtYWlsIjoiZGVlbmFAcHVibGljaXNncm91cGUubmV0IiwiZGlzcGxheU5hbWUiOiJEZWVwYWsgS3VtYXIifSwiYXBwS2V5Ijoic2tfNzU3MzUzMjEyNGJhZiIsImFwcElkIjoiMWUwYWM3ZjItNDY2Mi00MjNkLTg2OGYtZDc5Yjk5NDVlOGNkIiwic2VydmljZXMiOlsibGxtIiwic3RhdGUiXSwiYXBwTmFtZSI6IlBTU2xpbmdzaG90IiwiaW5kdXN0cnkiOiI0NTNkOWZhZS1mNjNjLTRlOTQtODIxZS0wNzJkNDc0MDg5NmEiLCJpYXQiOjE3Njc0OTczODYsImV4cCI6MTc2NzUwODE4Nn0.beHuHrxxQGhbLgmTewdjFZ_dlR9UCXi-UEE-Z_1iYZvQu8LVxzAj92Yw2spc2VQmYXKxeI1VzJHGIDjdfoU3aCh-nPT7SKqbkDJRlQGH_Ah4v7eAnaYtFsHcryDjBO57B4vr3UxAtoOy9Ex8Y_7K9olLDBdfj1qOF4YgDRwndRSU66XiyV0bc0ONEhUjWr9CM5IsC-3ar8K4JRKCur_H4_JArX2VCx9gw9HIH6AuNU5cdO54Iw68LXxvGz_oxm_SYrYvFROyLINPhpasJG0xqQtbLGMjv54kqTjcgTSmpkf12qWazxI4fP3gcHfGsBZlPE9tjrgqAx-St540uEUgNA" />
+      </map>
+    </option>
+    <option name="refreshTokenMap">
+      <map>
+        <entry key="Build-challenge-Instructions" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImlrNldybzd6RmpuWndjTUY0NDNBTndXNEI0QkhzTGNOdUFldzBKaTktMFUifQ.eyJ0eXBlIjoicnQiLCJjbGllbnRJZCI6ImI5N2ZiZWY3LWNhZDktNGU1Ni05ODUwLTM5ZTg2YzhmZGY2MSIsInJlcXVlc3RlZENsaWVudElkIjoiYjk3ZmJlZjctY2FkOS00ZTU2LTk4NTAtMzllODZjOGZkZjYxIiwiaWRwIjoibXNmdCIsImlzcyI6Imh0dHBzOi8vcHMuc2FwaWVudHNsaW5nc2hvdC5jb20iLCJyb2xlcyI6WyJ1c2VyIl0sImp0aSI6ImxtRTVhdUpUNEgiLCJVc2VySW5mbyI6eyJpZCI6IjhhNTBiNjEwLTRjOWItNGMwOS1hYWI0LTU1YWY2MDk4NGRmOSIsImVtYWlsIjoiZGVlbmFAcHVibGljaXNncm91cGUubmV0IiwiZGlzcGxheU5hbWUiOiJEZWVwYWsgS3VtYXIifSwiYXBwS2V5Ijoic2tfNzU3MzUzMjEyNGJhZiIsImFwcElkIjoiMWUwYWM3ZjItNDY2Mi00MjNkLTg2OGYtZDc5Yjk5NDVlOGNkIiwic2VydmljZXMiOlsibGxtIiwic3RhdGUiXSwiYXBwTmFtZSI6IlBTU2xpbmdzaG90IiwiaW5kdXN0cnkiOiI0NTNkOWZhZS1mNjNjLTRlOTQtODIxZS0wNzJkNDc0MDg5NmEiLCJpYXQiOjE3Njc0OTczODYsImV4cCI6MTc2NzY3MDE4Nn0.D-pGSpZiRyZONY6mHvrGb29WotJwaBmUxQrwFxWXuz_ws6sN9DZyCLrA9p2cgrHOSeQbjNYhfNw9aa_GBkzRveIRttPueu6-6hioMIMqj2gzXfhVF1TxuY0wl4SpEBEI-JYwpu2BPHBI57lumvCZYlyQwDzQuGM8_s3Wb8wUyqck2xIKww-8QH8QuAXsL9I8o-qZfevaFnwIohG4xl2WC2Wze4xFJl_6uzv29fivWOhfb0p2Hcqtz98qrNequjUKbUhQiwywwa8EiwVOV98okUV-76wzy_HycqFAIbrhb5632E9cS-9N-MBkvihDmHniNzT8QDPdAQcU-diOsOlzYg" />
+      </map>
+    </option>
+    <option name="timeWhenAuthTokenWasLastUpdated">
+      <map>
+        <entry key="Build-challenge-Instructions" value="1767497303267" />
+      </map>
+    </option>
+    <option name="workSpaceIdMap">
+      <map>
+        <entry key="Build-challenge-Instructions" value="6e5756eb-d7e2-4d80-ad07-9d7a51600d85" />
+      </map>
+    </option>
+    <option name="projectIdMap">
+      <map>
+        <entry key="Build-challenge-Instructions" value="fa8121c4-e2fc-48f1-9478-8949c04e13cc" />
+      </map>
+    </option>
+    <option name="clientIdMap">
+      <map>
+        <entry key="Build-challenge-Instructions" value="b97fbef7-cad9-4e56-9850-39e86c8fdf61" />
+      </map>
+    </option>
+  </component>
+</project>
